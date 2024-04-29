@@ -17,5 +17,6 @@ public class HelloWorld {
         System.out.println("Introduce tu nombre: ");
         String nombre = scanner.nextLine();
         System.out.println("Hola, " + nombre);
+        System.out.println("Adios" + nombre);
     }
 }
